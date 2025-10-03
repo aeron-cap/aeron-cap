@@ -1,27 +1,33 @@
-<!--
-**aeron-cap/aeron-cap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Aeron!
 
-Here are some ideas to get you started:
+I'm a passionate developer currently building tools to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 😄 Hi! I'm Aeron.
-- 🔭 I’m currently working on 2 personal projects.
--     Finance++ (My Personal Finance Tracking App) * Vue + Laravel
--     OpenPOS (POS App made for our family business) * No Frontend yet + Java Srping Boot
-- 🌱 I’m currently learning.
--     Java Spring Boot
--     C, C++ and GO
-- 📫 How to reach me:
--     aeron-github-io.vercel.app /
--     shoot me an email to aeroncaponpon.01@gmail.com
-- ⚡ Hobbies.
--     Exploring Paldea and Online Competitive
+### 🔭 Projects in Progress
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Finance++** | My personal finance tracking application. | `Vue` / `Laravel` |
+| **OpenPOS** | A Point-of-Sale (POS) app for my family business. | `Java Spring Boot` (Backend only for now) |
+
+---
+
+### 🌱 I'm Currently Learning
+
+I'm expanding my backend skills and dipping into systems programming:
+- **Backend:** Java Spring Boot
+- **Systems:** C, C++, and Go
+
+---
+
+### 📫 Let's Connect
+
+- **Personal Site:** [aeron-github-io.vercel.app](https://aeron-github-io.vercel.app/)
+- **Email:** aeroncaponpon.01@gmail.com
+
+---
+
+### ⚡ Fun Fact
+
+When I'm not coding, you can find me **Exploring Paldea** (Pokémon Scarlet/Violet) or enjoying **Online Competitive** games!
