@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Aeron!
----
 
 ### 💼 What I Do
 
