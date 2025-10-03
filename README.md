@@ -53,8 +53,3 @@ I'm constantly expanding my horizons and diving deep into:
 - **Personal Site:** [aeron-github-io.vercel.app](https://aeron-github-io.vercel.app/)
 - **Email:** aeroncaponpon.01@gmail.com
 
----
-
-### ⚡ Fun Fact
-
-<img src="http://googleusercontent.com/image_collection/image_retrieval/8407978214817631984_0" width="25" height="25" alt="Koraidon Icon"/> Exploring the Paldea region...
