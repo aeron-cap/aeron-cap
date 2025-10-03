@@ -19,23 +19,25 @@ I currently work as a **Full-Stack Web Developer**, specializing in the followin
 
 I always have a personal project cooking to hone my skills and build practical tools:
 
-**Finance++** - My personal finance tracking application.
+#### Finance++
+My personal finance tracking application.
 <p align="left">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Badge"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </p>
 
-**OpenPOS** - A custom Point-of-Sale (POS) app for our family business.
+#### OpenPOS
+A custom Point-of-Sale (POS) app for our family business.
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> only for now
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> (Backend only)
 </p>
 
 ---
 
 ### 🌱 I'm Currently Learning
 
-I'm constantly expanding my horizons. I'm currently diving deep into:
+I'm constantly expanding my horizons and diving deep into:
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Badge"/>
@@ -53,4 +55,6 @@ I'm constantly expanding my horizons. I'm currently diving deep into:
 
 ---
 
-### ### <img src="" width="25" height="25" alt="Koraidon Icon"/> Exploring the Paldea region...
+### ⚡ Fun Fact
+
+<img src="http://googleusercontent.com/image_collection/image_retrieval/10081985106713466031_0" width="25" height="25" alt="Koraidon Icon"/> Exploring the Paldea region...
