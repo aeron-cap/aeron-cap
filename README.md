@@ -7,9 +7,11 @@
 ### 💼 What I Do
 
 I currently work as a **Full-Stack Web Developer**, specializing in the following stack:
-- **Backend:** Laravel
-- **Frontend:** Angular
-- **Database:** MySQL
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Badge"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+</p>
 
 ---
 
