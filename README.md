@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Aeron!
-
-**Full-Stack Web Developer** currently focused on building robust solutions using **Laravel, Angular, and MySQL**. I enjoy solving real-world problems through clean code and scalable architecture.
-
 ---
 
 ### 💼 What I Do
