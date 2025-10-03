@@ -53,6 +53,4 @@ I'm constantly expanding my horizons. I'm currently diving deep into:
 
 ---
 
-### ⚡ Fun Fact
-
-When I'm not coding, you can usually find me **Exploring Paldea** or enjoying some online competitive gaming!
+### ### <img src="" width="25" height="25" alt="Koraidon Icon"/> Exploring the Paldea region...
