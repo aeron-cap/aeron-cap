@@ -30,7 +30,7 @@ My personal finance tracking application.
 #### OpenPOS
 A custom Point-of-Sale (POS) app for our family business.
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> (Backend only)
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> (Backend only )
 </p>
 
 ---
@@ -57,4 +57,4 @@ I'm constantly expanding my horizons and diving deep into:
 
 ### ⚡ Fun Fact
 
-<img src="http://googleusercontent.com/image_collection/image_retrieval/10081985106713466031_0" width="25" height="25" alt="Koraidon Icon"/> Exploring the Paldea region...
+<img src="http://googleusercontent.com/image_collection/image_retrieval/8407978214817631984_0" width="25" height="25" alt="Koraidon Icon"/> Exploring the Paldea region...
