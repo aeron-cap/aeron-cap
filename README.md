@@ -19,10 +19,17 @@ I currently work as a **Full-Stack Web Developer**, specializing in the followin
 
 I always have a personal project cooking to hone my skills and build practical tools:
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Finance++** | My personal finance tracking application. | `Vue` / `Laravel` |
-| **OpenPOS** | A custom Point-of-Sale (POS) app for our family business. | `Java Spring Boot` (Backend only for now) |
+**Finance++** - My personal finance tracking application.
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+</p>
+
+**OpenPOS** - A custom Point-of-Sale (POS) app for our family business.
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> only for now
+</p>
 
 ---
 
