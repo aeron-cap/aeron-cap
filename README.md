@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aeron!
 
-I'm a passionate developer currently building tools to solve real-world problems.
+I'm a developer currently building tools to solve real-world problems.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a passionate developer currently building tools to solve real-world problems
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Finance++** | My personal finance tracking application. | `Vue` / `Laravel` |
-| **OpenPOS** | A Point-of-Sale (POS) app for my family business. | `Java Spring Boot` (Backend only for now) |
+| **OpenPOS** | A Point-of-Sale (POS) app for our family business. | `Java Spring Boot` (Backend only for now) |
 
 ---
 
@@ -18,6 +18,7 @@ I'm a passionate developer currently building tools to solve real-world problems
 I'm expanding my backend skills and dipping into systems programming:
 - **Backend:** Java Spring Boot
 - **Systems:** C, C++, and Go
+- **Cloud:** AWS
 
 ---
 
@@ -28,6 +29,4 @@ I'm expanding my backend skills and dipping into systems programming:
 
 ---
 
-### ⚡ Fun Fact
-
-When I'm not coding, you can find me **Exploring Paldea** (Pokémon Scarlet/Violet) or enjoying **Online Competitive** games!
+**Exploring Paldea**
