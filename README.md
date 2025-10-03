@@ -27,13 +27,6 @@ I always have a personal project cooking to hone my skills and build practical t
 ### 🌱 I'm Currently Learning
 
 I'm constantly expanding my horizons. I'm currently diving deep into:
-
-| Category | Topics |
-| :--- | :--- |
-| **Backend** | Java Spring Boot |
-| **Systems** | C, C++, and Go |
-| **Cloud** | AWS (Amazon Web Services) |
-
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Badge"/>
