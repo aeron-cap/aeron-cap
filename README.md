@@ -11,7 +11,7 @@ I currently work as a **Full-Stack Web Developer**, specializing in the followin
 
 ---
 
-### 🔭 Personal Projects
+### 🔭 Current Personal Projects
 
 I always have a personal project cooking to hone my skills and build practical tools:
 
