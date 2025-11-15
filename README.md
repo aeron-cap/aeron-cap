@@ -6,7 +6,7 @@ I currently work Full-time as a **Full-Stack Web Developer**, specializing in th
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </p>
 
-#### I'm Currently Building
+#### I'm Currently Building on the side
 ##### - Finance++ - My personal finance tracking application.
 <p align="left">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
