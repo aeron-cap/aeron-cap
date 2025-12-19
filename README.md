@@ -1,28 +1,26 @@
-## 👋 Hi, I'm Aeron!
-I currently work Full-time as a **Full-Stack Web Developer**, specializing in the following stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Badge"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-</p>
+## Hey there! 👋 
+I'm **Aeron** - Currently working as a full-time Full-Stack Web Developer locally, trying to be a vim user lol. <br>
+Actively building personal projects, and looking for open source projects that I can contribute to.
 
-#### Learning...
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
-  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="Nest JS Badge"/>
-</p>
+#### 💻 Currently learning
+[![My Skills](https://skillicons.dev/icons?i=nestjs,spring,postgresql,docker)](https://skillicons.dev)
 
-#### Contact me
-- **Personal Site:** [aeron-github-io.vercel.app](https://aeron-github-io.vercel.app/)
+#### 😁 Interests
+- Backend development
+- Infra
+- C
+- Pokemon
+
+#### 📨 You can contact me here:
 - **Email:** aeroncaponpon.01@gmail.com
 - [**Resume**](https://drive.google.com/file/d/1OatYpnAtByGClxZbRZP0c_4IvHo6gPiQ/view?usp=sharing)
 
 ---
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,java,python,mysql)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,java,python)](https://skillicons.dev)
 
-## Frameworks
+### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=angular,laravel,nodejs,vue,tailwind)](https://skillicons.dev)
 
-## Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker)](https://skillicons.dev)
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,mysql)](https://skillicons.dev)
