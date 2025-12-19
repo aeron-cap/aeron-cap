@@ -6,17 +6,10 @@ I currently work Full-time as a **Full-Stack Web Developer**, specializing in th
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </p>
 
-#### I'm Currently Building on the side
-##### - Finance++ - My personal finance tracking application.
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-</p>
-
 #### Learning...
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="Nest JS Badge"/>
 </p>
 
 #### Contact me
