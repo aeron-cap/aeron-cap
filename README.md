@@ -1,5 +1,5 @@
 ## Hey there! 👋 
-I'm **Aeron** - Currently working as a full-time Full-Stack Web Developer locally, trying to be a vim user lol. <br>
+I'm **Aeron** - Currently working as a full-time Full-Stack Web Developer locally. <br>
 Actively building personal projects, and looking for open source projects that I can contribute to.
 
 #### 💻 Currently learning
