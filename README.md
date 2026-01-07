@@ -3,7 +3,7 @@ I'm **Aeron** - Currently working as a full-time Full-Stack Web Developer locall
 Actively building personal projects, and looking for open source projects that I can contribute to.
 
 #### 💻 Currently learning
-[![My Skills](https://skillicons.dev/icons?i=nestjs,spring,postgresql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nestjs,postgresql,docker)](https://skillicons.dev)
 
 #### 😁 Interests
 - Backend development
