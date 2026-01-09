@@ -17,7 +17,7 @@ Actively building personal projects, and looking for open source projects that I
 
 ---
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,python)](https://skillicons.dev)
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=angular,laravel,nodejs,vue,tailwind)](https://skillicons.dev)
