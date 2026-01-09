@@ -13,7 +13,7 @@ Actively building personal projects, and looking for open source projects that I
 
 #### 📨 You can contact me here:
 - **Email:** aeroncaponpon.01@gmail.com
-- [**Resume**](https://drive.google.com/file/d/15xbnkyP6vLq8ZmIWnx1AtFJua68ZFLes/view?usp=sharing)
+- [**Resume**](https://drive.google.com/file/d/1PnYhwZ67tThb4VCAnqQYN1MPVa6YPpvS/view?usp=sharing)
 
 ---
 ### Languages
