@@ -9,7 +9,7 @@ Actively building personal projects, and looking for open source projects that I
 - Backend development
 - Infra
 - C
-- Pokemon
+- Pokemon & Yugioh
 
 #### 📨 You can contact me here:
 - **Email:** aeroncaponpon.01@gmail.com
