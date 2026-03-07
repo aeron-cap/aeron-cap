@@ -19,4 +19,4 @@ Actively building personal projects, and looking for open source projects that I
 [![My Skills](https://skillicons.dev/icons?i=angular,laravel,nodejs,nestjs,react,tailwind)](https://skillicons.dev)
 
 ### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,sqlite, postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,sqlite)](https://skillicons.dev)
