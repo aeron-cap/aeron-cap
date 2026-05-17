@@ -1,27 +1,14 @@
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="10" style="border: none; border-collapse: collapse;">
-    <tr>
-      <td valign="middle" style="border: none;">
-        <picture>
-          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.webp" type="image/webp">
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.gif" alt="🐉" width="40" height="40">
-        </picture>
-      </td>
-      <td valign="middle" style="border: none;">
-        <strong>Welcome! I'm Aeron</strong>
-      </td>
-      <td valign="middle" style="border: none;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
-      <td valign="middle" style="border: none;">
-        <picture>
-          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" type="image/webp">
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="40" height="40">
-        </picture>
-      </td>
-      <td valign="middle" style="border: none;">
-        <a href="https://aeron.is-a.dev">Personal Website</a>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.gif" alt="🐉" width="20" height="20" style="vertical-align: middle;">
+  </picture>
+  &nbsp;<sup><strong>Welcome! I'm Aeron :></strong></sup>&nbsp;&nbsp;
+  &nbsp;&nbsp;<picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="20" height="20">
+  </picture>
+  &nbsp;<sup><a href="https://aeron.is-a.dev">my site</a></sup>
 </div>
 
 ```
