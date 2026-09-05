@@ -1,17 +1,5 @@
-<div align="center">
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f409/512.gif" alt="🐉" width="20" height="20" style="vertical-align: middle;">
-  </picture>
-  &nbsp;<sup><strong>Welcome! I'm Aeron :></strong></sup>
-  &nbsp;&nbsp;<picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="20" height="20">
-  </picture>
-  &nbsp;<sup><a href="https://aeron.is-a.dev">visit my site!</a></sup>
-  &nbsp;&nbsp;<picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f373/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f373/512.gif" alt="🍳" width="20" height="20">
-  </picture>
-  &nbsp;<sup><strong>always cooking :></strong></sup>
-</div>
+## Hey there! 👋 
+I'm **Aeron** - a fullstack developer @aesiph remotely in the Philippines. I'm interested in contributing to **Go** projects, and setting up my homelab at the moment. You can check out my portfolio here: https://aeron.is-a.dev/
+
+### Language and Tools
+[![My Skills](https://skillicons.dev/icons?i=go,typescript,python,javascript,php,mysql,docker)](https://skillicons.dev)
